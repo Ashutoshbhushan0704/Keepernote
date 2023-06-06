@@ -1,2 +1,2 @@
 # Keepernote
-Starting project of Ract.js
+Starting project of React.js
